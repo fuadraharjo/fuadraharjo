@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Fuad As Data Scientist
+I'm a career switcher from Mechanical Engineering to becoming a Data Scientist. As an Entry Level data scientist, I took part in the international bootcamp program named Practicum in Indonesia as a Data Scientist which is still ongoing (it has been running for 5 months from 9 months). You can ask anything via [Email:ariefraharjo95@gmail.com](ariefraharjo95@gmail.com) or [LinkedIn:Fuad Arief Raharjo](https://www.linkedin.com/in/fuad-arief-raharjo-3b6056104/). You can check and fork my projects in this GitHub.
 
-i, I'm a career switcher from Mechanical Engineering to becoming a Data Scientist. As an Entry Level data scientist, I took part in the international bootcamp program named Practicum in Indonesia as a Data Scientist which is still ongoing (it has been running for 5 months from 9 months). I have mastered quite a lot of data scientist fields such as Data Preprocessing/ETL, Exploratory Data Analyst (EDA), Business Analyst, Data Visualization and Machine Learning. I also have several projects that I have worked on on GitHub and also received several certificates such as from Kaggle, RevoU and Practicum (You can check on LinkedIn).
-
-Here is my skils:
+Here is my skils 🚀:
 - Data Cleaning - clean and prepare data from unnecessary like missing values, duplicates, etc.
 - ETL (Extract Transform Load) - extract data from resources, transform and run it for analytical processes.
 - Data Analysis - analyzing data to gain insights, identifying patterns, trends, hypothesis testing, AB/testing, and etc.
