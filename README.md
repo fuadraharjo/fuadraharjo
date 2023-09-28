@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Fuad As Data Scientist
-A career switcher from Mechanical Engineering to becoming a Data Scientist. As an Entry Level data scientist, I took part in the international bootcamp program named Practicum in Indonesia as a Data Scientist which is still ongoing (it has been running for 5 months from 9 months). You can ask anything via Email:[ariefraharjo95@gmail.com](mailto:ariefraharjo95@gmail.com) or LinkedIn:[Fuad Arief Raharjo](https://www.linkedin.com/in/fuad-arief-raharjo-3b6056104/). You can check and fork my projects in this GitHub.
+
+I am a career switcher from Mechanical Engineering to become a Data Scientist. As an Entry-level data scientist, I took part in the international bootcamp program named TripleTen in Indonesia as a Data Scientist and completed all the courses in 9 months less or more. I have mastered quite a lot of data science fields such as Data Preprocessing/ETL, Exploratory Data Analysis (EDA), Business Analysis, Data Visualization, Collecting Data using Structured Query Language (SQL), Machine Learning, Linear Algebra, Numerical Method, Natural Language Processing (NLP), Computer Vision (CV), and Unsupervised Learning. I just completed all main projects in each sprint for more than 10 projects. You can ask anything via Email:[ariefraharjo95@gmail.com](mailto:ariefraharjo95@gmail.com) or LinkedIn:[Fuad Arief Raharjo](https://www.linkedin.com/in/fuadraharjo/). You can check and fork my projects in this GitHub.
 
 Here my Resume/CV --> [GDrive](https://drive.google.com/file/d/1ExSvZTdsxdEwvU7tzTUZMBsHw4ST7Dl5/view?usp=sharing)
 
@@ -16,7 +17,11 @@ Here are my skils 🚀:
 
 Tools 🔭:
 
-|Python|DAX PowerBI|PowerQuery|Excel|Seaborn|Matplotlib|Plotly|PowerBI|Git|GitHub|SQL|Pandas|Numpy|Geopandas|Folium|Scipy|Scikit-Learn|XGBoost|Re|
+| Python | DAX PowerBI | PowerQuery | Excel | Seaborn | Matplotlib | Plotly | PowerBI | Git and GitHub | SQL | Pandas | Numpy | Geopandas | Folium | Scipy | Scikit-Learn | XGBoost | Re | LightGBM | PostgreSQL | Requests | beautifulsoup4 | LATEX | Statsmodels | NLTK | spaCy | Jupyter-Notebook | Keras | PyTorch |
+
+Skills 📝:
+
+| Data Cleaning | ETL (Extract Transform Load) | Data Analysis | Math and Statistics | Data Visualization | Model Prediction | Data Storytelling | Analytical and Problem Solving | Business Intelligence | 
 
 <!--
 **fuadraharjo/fuadraharjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
